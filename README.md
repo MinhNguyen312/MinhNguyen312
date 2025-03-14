@@ -1,4 +1,10 @@
-<p align="left">Hello World!! I'm Minh, a CS Student of Swinburne University of Technology, majoring in Software Development</p>
+<p align="left">Hello World!! I'm Minh, a CS Student of Swinburne University of Technology, majoring in Software Development.
+  <ul>
+    <li>I have some experience working with Cloud Services (AWS,Azure)</li>
+    <li>Experienced with C#, Javascript, and TypeScript</li>
+    <li>Experienced with various database engine (MSSQL, MySQL, MongoDB)</li>
+  </ul>
+</p>
 
 ###
 
