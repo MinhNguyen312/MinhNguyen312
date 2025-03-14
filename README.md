@@ -1,4 +1,4 @@
-<p align="left">Hello World!! I'm Minh a CS Student of Swinburne University of Technology, majoring in Software Development</p>
+<p align="left">Hello World!! I'm Minh, a CS Student of Swinburne University of Technology, majoring in Software Development</p>
 
 ###
 
@@ -31,6 +31,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">I'm interested in building applications which can change the way people works, or has positive effects on people's routine, thinking, and working.</p>
+<p align="left">I can grasp new technology rather quickly and can implement it to build applications (it could range from web application, mobile application, IoT devices programs,etc...)</p>
 
 ###
